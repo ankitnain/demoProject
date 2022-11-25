@@ -1,0 +1,18 @@
+
+.gap{
+	height: 500px;
+}
+
+.outer-grid {
+	border: 1px solid black;
+	width:100vw;
+}
+
+tr, td {
+	border: 1px solid black;
+}
+
+.outer-grid .header {
+	background-color: #ecf0f1;
+	
+}
